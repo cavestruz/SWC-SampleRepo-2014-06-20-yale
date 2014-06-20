@@ -2,6 +2,7 @@
 # Comment for this loop print 1 to 10
 
 # Just a new comment
+#adding a new comment
 
 for i in {1..10} ; 
 do
